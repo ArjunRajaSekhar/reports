@@ -1,0 +1,7 @@
+Completed the task specified in the files task0.txt,task1.txt.
+
+Learned shell commands.
+
+created github account.cloned the local repo to that of repo created in github.com
+
+Completed part1 of task2.Creating a repo 'class-notes' and cloned the same with the local repo. 
