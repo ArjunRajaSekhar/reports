@@ -5,3 +5,5 @@ for loops work in the   unix shell.
 "command line arguments" can be accessed from a shell script.
 
 done 2 problmes abc.sh and uplo.sh.
+
+learned about commands mv..
