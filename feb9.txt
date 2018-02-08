@@ -1,0 +1,7 @@
+joined 2 edx courses.
+
+for loops work in the   unix shell.
+"case statements" work in shell scripts.
+"command line arguments" can be accessed from a shell script.
+
+done 2 problmes abc.sh and uplo.sh.
